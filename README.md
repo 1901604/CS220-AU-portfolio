@@ -11,6 +11,12 @@
 
 ## TODO
 Work on digital identity essay
+Read template and add notes.
+Look at digital identities notes.
+Start with where I come from, culture.
+Rewatch videos
+Create V&R maps
+Look at resources
 <br>
 Website - on hold
 
