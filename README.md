@@ -5,9 +5,8 @@
 <br>
 
 ## Log
-- Attended class on 20/10/2021
-
-<br>
+- Attended class on 13/10/2021
+- Attended class on 20/10/2021<br>
 
 ## TODO
 Work on digital identity essay
