@@ -6,7 +6,11 @@
 
 ## Log
 - Attended class on 13/10/2021
-- Attended class on 20/10/2021<br>
+- Attended class on 20/10/2021
+- Rewatched David White videos on V&R maps 26/10/21
+- Created my personal V&R map 26/10/21
+- Chose essay question 'Should we be afraid of the development of Artificial Intelligence (AI)?' 26/10/21
+- - <br>
 
 ## TODO
 Work on digital identity essay
