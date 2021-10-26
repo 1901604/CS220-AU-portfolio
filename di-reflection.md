@@ -25,7 +25,7 @@ Note: The module outline has a page on [digital identities](https://github.com/k
 ### My past/present digital identity/identities
 Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<br><br>
+<br><br>![V&R map plain](assets/img/V&R map.png)<br><br>
 
 To clarify, in 
 
