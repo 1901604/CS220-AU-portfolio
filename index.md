@@ -49,7 +49,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 <br>
 
 ## work experience
-### Customer Service Advisor B&Q
+#### Customer Service Advisor B&Q
 #### Administrative Assisstant HMCTS
 #### Enrolment Officer Merton College
 
