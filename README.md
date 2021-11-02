@@ -10,6 +10,7 @@
 - Rewatched David White videos on V&R maps 26/10/21
 - Created my personal V&R map 26/10/21
 - Chose essay question 'Should we be afraid of the development of Artificial Intelligence (AI)?' 26/10/21
+- Attended class on 27/10/21, stayed after to resolve image upload issue.
 - - <br>
 
 ## TODO
