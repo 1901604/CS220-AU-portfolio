@@ -1,27 +1,23 @@
-The information below can be used as a template for your own home page. 
 
-## Krisztian Hofstadter
-**Creative technologist with teaching, technical and artistic skills**  
 
-Hello! My name is Krisztian Hofstadter, aka tEdör. 
+## Connor Peters
+**Communications and Digital Culture student at the University of Essex**  
 
-I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
+Hello! My name is Connor Peters. 
 
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
+I am a student at the University of Essex studying Communications and Digital Culture. After studying Media Studies at A-Level, I worked for 2 years as a customer advisor at B&Q and as an administrative assisstant for HMCTS in South West London before deciding to enrol into a foundation year at university which lead me to study this degree. In the past I have been interested in editing videos and images and closely followed video game culture and esports. Now I am interested in media sociology and sociology in general, whilst also striving to maintain an apt knowledge of the lastest forms of technology and seeking to understand where technology may take us in the future.
 
 <br>
 
 ## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
-
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
+- [LinkedIn](https://www.linkedin.com/in/connor-p-80676b121/)
+- [YouTube]()
 
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+- cp19834[at]essex[dot]co[dot]uk
+- c[dot]peters068[at]gmail[dot]com
 
 <br>
 
@@ -53,8 +49,9 @@ Note: only link social media that you are happy for people to visit i.e. if your
 <br>
 
 ## work experience
-### research assistant positions
-#### StoryLab Research Institute
+### Customer Service Advisor B&Q
+#### Administrative Assisstant HMCTS
+#### Enrolment Officer Merton College
 
 11/2017 - 08/2021 &nbsp; &nbsp; ARU
 
