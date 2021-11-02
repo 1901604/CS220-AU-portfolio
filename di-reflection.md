@@ -15,8 +15,8 @@ This writing briefly reflects on my understanding of
 ### Digital identities
 To help identify and improve my digital identities, I explored 
 - [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
-  - says this and that as well as that
-  - and out of these, I found this and that interesting, and therefore researched them further and found this and that, etc. 
+  - Describes how the Visitors and Residents concept is a simple way of presenting the range of ways people can engage with the Web. It is a continuum of ‘modes of engagement’ rather than being two independent categories. 
+  - Out of this, I found it interesting how , and therefore researched them further and found this and that, etc. 
 
 Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
 
