@@ -28,10 +28,10 @@ Using the V&R map, I identified the following ways I engage with the Web in my v
  ![V&R map](assets/img/V&R_map2.png)
 <br><br>
 
-To clarify, in 
+To clarify:
 
-- my visiting mode, the primary activities are searching, email and Netflix.
-- my resident mode, the primary activities are Twitter and Blogger.
+- in my visiting mode, the primary activities are searching, email and Netflix.
+- in my resident mode, the primary activities are Twitter and Blogger.
 - the difference between my personal and institutional modes is that at this point in my career, my of my usage is in the personal sphere. This may change over time as I am currently a student and institutional usage may become more prevelant and I transition my focus more onto working and use the Web to aid my development in this.
  
 
