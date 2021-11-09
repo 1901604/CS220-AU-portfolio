@@ -13,6 +13,7 @@
 - Attended class on 27/10/21, stayed after to resolve image upload issue.
 - Watched Krisztian's troubleshooting video 02/11/21
 - Worked on Homepage (index) 02/11/21
+- Attended class on 03/11/21
 - 
 - - <br>
 
