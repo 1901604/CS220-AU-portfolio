@@ -43,13 +43,9 @@ I am a student at the University of Essex studying Communications and Digital Cu
 #### Administrative Assisstant HMCTS
 #### Enrolment Officer Merton College
 <br>
+
+
  ![edit1](assets/img/edit1.png)
- 
-<br>
- ![edit2](assets/img/edit2.png)
- 
- <br>
- ![edit3](assets/img/edit3.png)
  
  <br>
  
