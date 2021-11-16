@@ -21,13 +21,9 @@ I am a student at the University of Essex studying Communications and Digital Cu
 
 <br>
 
-## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
-
-<br>
-
-## now
+## Music Video Project
+[![mvthumbnail.png](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_kmPpjo3DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>## now
 - I just wrote a template for my students' [di-reflection](di-reflection.md)
 - working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
 - running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
