@@ -73,13 +73,6 @@ In this editing session we also experimented with the 3 way colour effect, using
  
 
 <br>
-### associate lecturing positions
-
-#### Sonic art (ARU)
-01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
-
-#### Music for the moving image (ARU)
-09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
 
 <br>
 
