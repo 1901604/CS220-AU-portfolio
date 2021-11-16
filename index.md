@@ -22,7 +22,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 <br>
 
 ## Music Video Project
-![mvthumbnail](assets/img/mvthumbnail.png))](https://youtu.be/-_kmPpjo3DQ "The 1975 - Pressure Music Video")<br>
+![mvthumbnail](assets/img/mvthumbnail.png))](https://youtu.be/-_kmPpjo3DQ)<br>
 
 <br>
 [![Alternate Text]({assets/img/mvthumbnail.png})]({https://youtu.be/-_kmPpjo3DQ} "The 1975 - Pressure Music Video")
