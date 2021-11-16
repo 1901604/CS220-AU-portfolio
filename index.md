@@ -49,14 +49,42 @@ I am a student at the University of Essex studying Communications and Digital Cu
  
  <br>
  
- #### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
+ #### Test
 
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
 
 <br>
 
+
+**Editing - Production Log**
+
+  
+  
+  
+
+[![](https://1.bp.blogspot.com/-hCNNFhGZvoM/WEnkC7I92iI/AAAAAAAAA9o/KZSumgLKXPctayThejTJBC9txFQlaBOvgCLcB/s400/Screen%2BShot%2B2016-11-29%2Bat%2B11.34.19.png)](https://1.bp.blogspot.com/-hCNNFhGZvoM/WEnkC7I92iI/AAAAAAAAA9o/KZSumgLKXPctayThejTJBC9txFQlaBOvgCLcB/s1600/Screen%2BShot%2B2016-11-29%2Bat%2B11.34.19.png)On this date in lesson time we edited the footage gathered from Thursday the 24th into our music video project on Premier Pro and also altered some of our older footage. We took time to consider the correct positions of these new shots, referring back to our animation and deciding what looks best. We also made some of these shots and previous shots black an white as we felt that this would fit the indie pop genre well as it is conventional of this genre and help create the atmosphere we wanted to fit with the song. 
+
+  
+
+  
+
+  
+[![](https://4.bp.blogspot.com/-HulT7ASXIsg/WEnkCqr-orI/AAAAAAAAA9k/qwvPNzFXyyYvpb1YsZSOgXRV8OEZpGkOACLcB/s400/Screen%2BShot%2B2016-11-29%2Bat%2B11.34.44.png)](https://4.bp.blogspot.com/-HulT7ASXIsg/WEnkCqr-orI/AAAAAAAAA9k/qwvPNzFXyyYvpb1YsZSOgXRV8OEZpGkOACLcB/s1600/Screen%2BShot%2B2016-11-29%2Bat%2B11.34.44.png)  
+
+In this editing session we made an effort to add any interesting effects that we thought fitted with our music video well in order to improve some particular shots such as the shot of all 3 of the band members walking across the train tracks. As layering with changing opacity levels was also a convention of the indie pop genre, we wanted to add this effect to this shot. We did this by copying the shot and putting one on the layer on top of another. We lowered the opacity of the top layer so that both could be seen at the same time and then changed the speed of the top layer so that it would give the effect of seeing two of all band members. 
+
+  
+  
+
+In this editing session we also experimented with the 3 way colour effect, using it to bring out certain highlights of vivid colours and leaving the rest of the shot looking dull with low saturation. We used this on the shot shown below to exaggerate the red in the graffiti along with the shot of Chris walking through the tunnel. We animated this shot so that the colours would change as the shot progresses to add some dynamic editing to our music video and help create interest in the audience through attempting to make the video more visually interesting to watch.
+
+  
+  
+  
+  
+
+[![](https://2.bp.blogspot.com/-8UT5VQRJ9QI/WEnkC5FiwbI/AAAAAAAAA9s/WdgoF11y_-8M0YQeSjdyKKbXY_Nt6zGigCLcB/s400/Screen%2BShot%2B2016-11-29%2Bat%2B12.14.11.png)](https://2.bp.blogspot.com/-8UT5VQRJ9QI/WEnkC5FiwbI/AAAAAAAAA9s/WdgoF11y_-8M0YQeSjdyKKbXY_Nt6zGigCLcB/s1600/Screen%2BShot%2B2016-11-29%2Bat%2B12.14.11.png)
+
+<br>
 ### associate lecturing positions
 
 #### Sonic art (ARU)
