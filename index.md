@@ -57,12 +57,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 
 **Editing - Production Log**
 
-  
-  
-  
-<br>
 [![](https://1.bp.blogspot.com/-hCNNFhGZvoM/WEnkC7I92iI/AAAAAAAAA9o/KZSumgLKXPctayThejTJBC9txFQlaBOvgCLcB/s400/Screen%2BShot%2B2016-11-29%2Bat%2B11.34.19.png)](https://1.bp.blogspot.com/-hCNNFhGZvoM/WEnkC7I92iI/AAAAAAAAA9o/KZSumgLKXPctayThejTJBC9txFQlaBOvgCLcB/s1600/Screen%2BShot%2B2016-11-29%2Bat%2B11.34.19.png)
-<br>
 <br>
 In this session we edited the recent footage gathered into our music video project on Premier Pro and also altered some of our older footage. We took time to consider the correct positions of these new shots, referring back to our animation and deciding what looks best. We also made some of these shots and previous shots black an white as we felt that this would fit the indie pop genre well as it is conventional of this genre and help create the atmosphere we wanted to fit with the song. 
 <br>
