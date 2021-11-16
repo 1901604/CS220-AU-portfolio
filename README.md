@@ -14,25 +14,13 @@
 - Worked on Homepage (index) 02/11/21
 - Attended class on 03/11/21
 - Added to my Digital Identities page 09/11/21
+- Attended class on 10/11/21
 - - <br>
 
 ## TODO
-Work on digital identity essay
-<br>
-Read template and add notes.
-<br>
-Look at digital identities notes.
-<br>
-Start with where I come from, culture.
-<br>
-Rewatch videos
-<br>
-Create V&R maps
-<br>
-Look at resources
-<br>
-Website - on hold
-
+- Complete Digital Identity page (Read template and add notes, create 2nd V&R map)
+- Progress with Website
+- 
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
