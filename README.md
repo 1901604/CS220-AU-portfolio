@@ -16,6 +16,7 @@
 - Added to my Digital Identities page 09/11/21
 - Attended class on 10/11/21
 - Experimented with website 16/11/21
+- Watched Wednesday's class on Listen Again 20/11/21
 - - <br>
 
 ## TODO
