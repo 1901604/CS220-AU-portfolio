@@ -41,15 +41,15 @@ To help develop my digital identities I have:
 - discussed the concept of digital identities and what makes for an improved version with my classmates.
 - done online research for what makes a good professional online identity. I found that amongst other aspcets, in order to be visible, professional and take control of my digital identity I should have simple usernames such as @ConnorPeters, use a clear and professional profile picture of me, include a short and relevent bio, be active, create an 'About Me' page and delete or private any unwanted past posts that do not align with my desired professional digital identity. 
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
- <br>
+- <br>
  I beleive that some of the positive aspects of my digital identity thus far include that:
- -  I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment.
--  I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.
--  Some of my social media such as Instagram, Facebook and Snapchat are on private.
--  I have effectively used sites such as eBay to buy and sell products and have good reviews.
--  Some of my Media Studies content from A-Levels can be accessed on a public Blogger account.
--  I have used alias in the past for gaming accounts which separates them from my professional identity.
-- 
+ - I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment.
+ - I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.
+ - Some of my social media such as Instagram, Facebook and Snapchat are on private.
+ - I have effectively used sites such as eBay to buy and sell products and have good reviews.
+ - Some of my Media Studies content from A-Levels can be accessed on a public Blogger account.
+ - I have used alias in the past for gaming accounts which separates them from my professional identity.
+ - 
 Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
 
 After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
