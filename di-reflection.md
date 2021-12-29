@@ -38,10 +38,10 @@ To clarify:
 <br>
 
 ### My future digital identity/identities
-To help develop my digital identities I have
-- revised my current use of digital identities (thought about it critically)
-- discussed it with my cohort/friends/parents
-- found this and that in journal papers/books/internet which helped me understand where and how I could improve 
+To help develop my digital identities I have:
+- revised my current use of digital identities by giving it some critical thought.
+- discussed the concept of digital identities and what makes for an improved version with my classmates.
+- done online research for what makes a good professional online identity. I found that amongst other aspcets, in order to be visible, professional and take control of my digital identity I should have simple usernames such as @ConnorPeters, use a clear and professional profile picture of me, include a short and relevent bio, be active, create an 'About Me' page and delete or private any unwanted past posts that do not align with my desired professional digital identity. 
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
 - etc. 
 
