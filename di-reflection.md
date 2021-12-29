@@ -49,10 +49,10 @@ To help develop my digital identities I have:
  - I have effectively used sites such as eBay to buy and sell products and have good reviews.
  - Some of my Media Studies content from A-Levels can be accessed on a public Blogger account.
  - I have used alias in the past for gaming accounts which separates them from my professional identity.
- - 
+ - I have posted YouTube videos displaying my academic work to an account in my name and recreational work has been posted to an account with an alias.
 Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
 
-After identifying and analysing my current use of digital identities on the Web, I set the goal to ...
+After identifying and analysing my current use of digital identities on the Web, I set the goal to continue to keep my LinkedIn and bio up-to-date and accurate, continue to be wary of what I post to public accounts however to be more active for relevent and interesting content such as Blogger or Twitter. Additionally, I wish to follow more accounts on Twitter that align with my professional interests and to reply and interact with these posts more in the effort of making more connections and to be more engaged and integrated into the space. I aim to produce more intresting content in video format that can be uploaded to YouTube in an account in my name to reach a wider audience, generate a portfolio of my work and create more interest and connections. I should also use a new email address to seperate my personal and professional accounts. 
 
 <br>
 
