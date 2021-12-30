@@ -45,19 +45,15 @@ To help develop my digital identities I have:
 I beleive that some of the positive aspects of my digital identity thus far include that I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment. I have also been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate. Some of my social media such as Instagram, Facebook and Snapchat are on private and I have effectively used sites such as eBay to buy and sell products and have good reviews. Additionally, some of my Media Studies content from A-Levels can be accessed on a public Blogger account. Furthermore, I have used alias in the past for gaming accounts which separates them from my professional identity and I have posted YouTube videos displaying my academic work to an account in my name and recreational work has been posted to an account with an alias. 
  <br>
  <br>
- After identifying and analysing my current use of digital identities on the Web, I set the goal to continue to keep my LinkedIn and bio up-to-date and accurate, continue to be wary of what I post to public accounts however to be more active for relevent and interesting content such as Blogger or Twitter. Additionally, I wish to follow more accounts on Twitter that align with my professional interests and to reply and interact with these posts more in the effort of making more connections and to be more engaged and integrated into the space. I aim to produce more intresting content in video format that can be uploaded to YouTube in an account in my name to reach a wider audience, generate a portfolio of my work and create more interest and connections. I should also use a new email address to seperate my personal and professional accounts.
+ 
  <br>
- Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
-<br>
 
 <br>
 
 #### Objective 1 (example)
-The above V&R map and its analysis highlighted ...
-
-To address this (objective/weakness/threat, ...) I plan to 
-- do this and that (read this and that, join a specific forum, amend/delete/add this or that, ...)
-- by this deadline (perhaps you could write that you will set aside 1 hour every Monday to work on this objective)
+The above V&R map and its analysis highlighted that a large majority of my digital idenitity footprint fell into the 'personal' category and was slightly more weighted towards the 'visitor' category too. 
+<br>
+After identifying and analysing my current use of digital identities on the Web, I set the goal to continue to keep my LinkedIn and bio up-to-date and accurate, continue to be wary of what I post to public accounts however to be more active for relevent and interesting content such as Blogger or Twitter. Additionally, I wish to follow more accounts on Twitter that align with my professional interests and to reply and interact with these posts more in the effort of making more connections and to be more engaged and integrated into the space. As well as this, I will watch YouTube videos and read more web articles to search for any other aspects that make a good professional itentity that I am missing. I aim to produce more intresting content in video format that can be uploaded to YouTube in an account in my name to reach a wider audience, generate a portfolio of my work and create more interest and connections. I should also use a new email address to seperate my personal and professional accounts.
 
 <br>
 
@@ -70,8 +66,8 @@ By addressing these objectives my V&R map will look as follows:
 
 <br>
 
-### Summery
-This writing reflected (or in this writing I reflected) on my understanding of
+### Summary
+In this writing I reflected on my understanding of
 
 1. digital identities in general and highlighted this and that
 2. my digital identities in the past/present and highlighted this and that
