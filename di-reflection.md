@@ -43,7 +43,7 @@ To help develop my digital identities I have:
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
   <br>
   <br>
-  I beleive that some of the positive aspects of my digital identity thus far include that:
+ I beleive that some of the positive aspects of my digital identity thus far include that:
  - I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment.
  -   I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.
  -   Some of my social media such as Instagram, Facebook and Snapchat are on private
