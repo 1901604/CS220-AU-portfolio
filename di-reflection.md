@@ -43,14 +43,7 @@ To help develop my digital identities I have:
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
 <br>
 <br>
-I beleive that some of the positive aspects of my digital identity thus far include that:
-- - I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment.
-- I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.
-- Some of my social media such as Instagram, Facebook and Snapchat are on private
-- I have effectively used sites such as eBay to buy and sell products and have good reviews.
-- Some of my Media Studies content from A-Levels can be accessed on a public Blogger account.
-- I have used alias in the past for gaming accounts which separates them from my professional identity.
-- I have posted YouTube videos displaying my academic work to an account in my name and recreational work has been posted to an account with an alias.
+I beleive that some of the positive aspects of my digital identity thus far include that I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment. I have also been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate. Some of my social media such as Instagram, Facebook and Snapchat are on private and I have effectively used sites such as eBay to buy and sell products and have good reviews. Additionally, some of my Media Studies content from A-Levels can be accessed on a public Blogger account. Furthermore, I have used alias in the past for gaming accounts which separates them from my professional identity and I have posted YouTube videos displaying my academic work to an account in my name and recreational work has been posted to an account with an alias.
  <br>
 Note: Make sure you not only write about what you think needs improving, but also about what you think you are already doing well already regarding your digital identities. A good starting point is to talk about the good things you already do and then dive into what needs improving. In the next heading, you can list the aspects of your identities that need improving and then write about what ideas/methods you plan to use to improve them. 
 
