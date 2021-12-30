@@ -18,7 +18,7 @@
 - Experimented with website 16/11/21
 - Watched Wednesday's class on Listen Again 20/11/21
 - Watched missed classes on Listen Again 28/12/21
-- 
+- Added to Digital Identities page on 28/12/21
 - - <br>
 
 ## TODO
