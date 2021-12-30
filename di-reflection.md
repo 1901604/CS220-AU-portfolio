@@ -41,7 +41,7 @@ To help develop my digital identities I have:
 - discussed the concept of digital identities and what makes for an improved version with my classmates.
 - done online research for what makes a good professional online identity. I found that amongst other aspcets, in order to be visible, professional and take control of my digital identity I should have simple usernames such as @ConnorPeters, use a clear and professional profile picture of me, include a short and relevent bio, be active, create an 'About Me' page and delete or private any unwanted past posts that do not align with my desired professional digital identity. 
 - used a [SWOT](https://duckduckgo.com/?q=swot&t=brave&ia=web) analysis (or another method that can help personal development) to understand my next steps
--  <br>
+  <br>
 I beleive that some of the positive aspects of my digital identity thus far include that:
  - I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment.
  -   I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.
