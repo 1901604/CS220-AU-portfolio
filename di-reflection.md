@@ -44,8 +44,14 @@ To help develop my digital identities I have:
 <br>
 <br>
 I beleive that some of the positive aspects of my digital identity thus far include that:
+-i
 - I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment.
-- I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.
+- I have been cautious with what I post on social media in the past and have recenlt deleted some content I now deem inappropriate.- a
+- a
+- a
+- a
+- a
+- a
 - Some of my social media such as Instagram, Facebook and Snapchat are on private
 - I have effectively used sites such as eBay to buy and sell products and have good reviews.
 - Some of my Media Studies content from A-Levels can be accessed on a public Blogger account.
