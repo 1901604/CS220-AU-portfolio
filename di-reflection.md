@@ -11,14 +11,12 @@ This writing briefly reflects on my understanding of
 - my digital identities in the future
 
 <br>
-
 ### Digital identities
 To help identify and improve my digital identities, I explored [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which describes how the Visitors and Residents concept is a simple way of presenting the range of ways people can engage with the Web. It is a continuum of ‘modes of engagement’ rather than being two independent categories. Out of this, I found it interesting to evoke more thought in regards to the different ways in which myself and others use the internet and more about how the footprint we leave varies depending on which of these vistor or resident modes we occupy.
 
 Note: The module outline has a page on [digital identities](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/digital-identities.md) - revise if needed. If you can, add more references i.e. not just the one to White et al. 
 
 <br>
-
 ### My present digital identities
 Using the V&R map, I identified the following ways I engage with the Web in my visitor and resident modes (see photo/diagram below). 
 
@@ -32,9 +30,7 @@ To clarify:
 - in my resident mode, the primary activities are Twitter and Blogger.
 - the difference between my personal and institutional modes is that at this point in my career, my of my usage is in the personal sphere. This may change over time as I am currently a student and institutional usage may become more prevelant and I transition my focus more onto working and use the Web to aid my development in this.
  
-
 <br>
-
 ### My future digital identity/identities
 To help develop my digital identities I have:
 - revised my current use of digital identities by giving it some critical thought.
@@ -50,15 +46,12 @@ I beleive that some of the positive aspects of my digital identity thus far incl
 
 <br>
 
-#### Objective 1 (example)
+#### Objectives
 The above V&R map and its analysis highlighted that a large majority of my digital idenitity footprint fell into the 'personal' category and was slightly more weighted towards the 'visitor' category too. 
 <br>
 After identifying and analysing my current use of digital identities on the Web, I set the goal to continue to keep my LinkedIn and bio up-to-date and accurate, continue to be wary of what I post to public accounts however to be more active for relevent and interesting content such as Blogger or Twitter. Additionally, I wish to follow more accounts on Twitter that align with my professional interests and to reply and interact with these posts more in the effort of making more connections and to be more engaged and integrated into the space. As well as this, I will watch YouTube videos and read more web articles to search for any other aspects that make a good professional itentity that I am missing. I aim to produce more intresting content in video format that can be uploaded to YouTube in an account in my name to reach a wider audience, generate a portfolio of my work and create more interest and connections. I should also use a new email address to seperate my personal and professional accounts.
 
 <br>
-
-#### Objective 2 (example)
-...
 
 By addressing these objectives my V&R map will look as follows: 
 
@@ -74,7 +67,6 @@ In this writing I reflected on my understanding of
 3. my digital identities in the future and highlighted this and that
 
 <br>
-
 ### Questions you should/could export 
 - do I know people who are much older than me and can use technology efficiently e.g. the Web more efficiently?
 - what does it actually mean "to use the Web more efficiently"?
@@ -98,6 +90,5 @@ In this writing I reflected on my understanding of
 - what information about my developing digital identities am I confident sharing publicly?
 
 <br>
-
 ### Thoughts
 - maybe also have the two maps next to each other for easy comparison
