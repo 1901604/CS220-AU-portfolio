@@ -19,6 +19,8 @@
 - Watched Wednesday's class on Listen Again 20/11/21
 - Watched missed classes on Listen Again 28/12/21
 - Added to Digital Identities page on 28/12/21
+- Completed analysis of current digital identities and went on to start my future V&R map 30/12/21
+- Completed future V&R map and 02/01/21
 - - <br>
 
 ## TODO
