@@ -29,4 +29,5 @@
 - 
 ## References
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
+- White, D.S. and Le Cornu, A., 2011. Visitors and Residents: A new typology for online engagement. First monday.
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
