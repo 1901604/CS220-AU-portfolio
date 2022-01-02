@@ -62,7 +62,7 @@ After identifying and analysing my current use of digital identities on the Web,
 
 By addressing these objectives my V&R map will look as follows: 
 
-![V&R map plain](assets/img/vr-map-plain.svg)
+![futureV&R map](assets/img/futurev&rmap.png)
 
 <br>
 
