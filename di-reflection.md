@@ -82,7 +82,7 @@ In this writing I reflected on my understanding of
 - what does it actually mean "to use the Web more efficiently"?
 - what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?
 - on the V&R map, what's the fundamental difference between 'visitor' modes and 'resident' modes and what does the 'personal on institutional' dimension provide?
-- how have I been using digital technology in different contexts i.e. how has my 'digital journey' changed since my first device e.g. the one given to me by parents?
+- how have I been using digital technology in different contexts i.e. how has my 'digital journey' changed since my first device e.g. the one given to me by parents? Since my first device, there has been a drastic change in the way that I use digital technology. Being born in 1999, the earliest years of my life contained very little to no use of digital technologies. My first memories include gaming devices such as the PlayStation 2 and Nintendo DS where I gamed without internet access. 
 - how can/should I (or shouldn't) link my personal identities to my professional identities?
 - what implications do my visitor identities have on my personal life?
 - what implications do my personal identities have on my professional/institutional life?
