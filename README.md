@@ -9,7 +9,7 @@
 - Attended class on 20/10/2021
 - Rewatched David White videos on V&R maps 26/10/21
 - Created my personal V&R map 26/10/21
-- Attended class on 27/10/21, stayed after to resolve image upload issue.
+- Attended class on 27/10/21, stayed after to resolve image upload issue
 - Watched Krisztian's troubleshooting video 02/11/21
 - Worked on Homepage (index) 02/11/21
 - Attended class on 03/11/21
@@ -21,7 +21,9 @@
 - Added to Digital Identities page on 28/12/21
 - Completed analysis of current digital identities and went on to start my future V&R map 30/12/21
 - Completed future V&R map and 02/01/21
-- - <br>
+- Answered some 'Questions you should/could export' questions on digital identities 02/021/21
+- Added references at the bottom of this page 02/01/21
+- - - <br>
 
 ## TODO
 - Complete Digital Identity page (Read template and add notes, create 2nd V&R map)
