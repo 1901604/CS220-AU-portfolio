@@ -21,6 +21,7 @@ Since my first device, there has been a drastic change in the way that I use dig
 
 In my personal life, generally my older family members do not use technology as much as me and my sister and cousins for example. I expect that this is because my generation has largely grown up being surrounded by technology so thus have a better understanding of how to use it and it is more engrained into our culture to use it more often. However, almost everyone in England will use digital technology in some form and all members of my family and friends have smartphones, computers and internet access that they use in their daily lives. From personal experience, my Grandad is 82 years old and some of his use of technology is to manage investments online and for emails rather than newer forms of social media common for my generation. In some sense, this diminished usage may be more efficient in that less time is spent on unnecessary scrolling on social media and instead the technology is used more for professional means. This relationship with technology may have been shifted as a result of the COVID 19 pandemic where, for instance, my mum had to use Zoom for work meetings which she had not done before. 
 
+Critical thinking is an increasingly important concept in the digital realm as children and adults must be able to evaluate online content and recognise how this exposure and online interaction can affect behaviour, emotions, and beliefs. It can aid in building resilience to online risks such as self-esteem and body image issues from advertising and celebrity culture, as well as exposure to propaganda, fake news, and extremist content. When assessing information found online, it is important to question who posted the content, if they are reliable or biased, and if the content could be edited or fake, as well as what the desired outcome was. 
 
 <br>
 
@@ -72,31 +73,4 @@ By addressing these objectives my V&R map will look as follows:
 
 In this writing I reflected on my understanding of digital identities in general and highlighted how we have developed on Prensky's model of digital natives and digital immigrants to give White et al's Visitors and Reisidents model which gives a more accurate spectrum for people to be placed on. I also outlined how my present digital identities mostly occupy the 'personal' category, and how in the future I aim to have much more weighting in the 'professional' and 'resident' sectors in order to have a more efficient and useful digital identity. 
 
-<br>
 
-### Questions you should/could export 
-
-- what does it actually mean "to use the Web more efficiently"?
-- on the V&R map, what's the fundamental difference between 'visitor' modes and 'resident' modes and what does the 'personal on institutional' dimension provide?
-- how have I been using digital technology in different contexts i.e. how has my 'digital journey' changed since my first device e.g. the one given to me by parents? 
-- how can/should I (or shouldn't) link my personal identities to my professional identities?
-- what implications do my visitor identities have on my personal life?
-- what implications do my personal identities have on my professional/institutional life?
-- what implications do my resident identities have on my personal life?
-- what implications do my resident identities have on my professional/institutional life?
-- how do I assess the credibility of information of other people (or institutions) e.g. does it matter how good their profile picture looks or how well their website is designed? 
-- how much fact-checking could people do when visiting my resident identities e.g. my websites or social accounts and who much fact-checking do I need to do when referencing others' work?
-- is a piece of information's creditably in line with how high the information ranks using a search engine?
-- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps who it was reviewed by? Can this information be biased or could there be a conflict of interest? 
-- what does it mean to critically evaluate information i.e. what is critical thinking?
-- how do I develop my critical thinking regarding my engagement on the Web in my visitor and resident modes?
-- what is my digital capability e.g. what aspect of technology am I comfortable/uncomfortable with?
-- how can I improve my online presence e.g. by monitoring the time I spend on social media vs. work when using my computing device?
-- how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of a more reactive/emotional/biased state of mind before sharing or commenting on something online?
-- what information about my developing digital identities am I confident sharing publicly?
-
-<br>
-
-### Thoughts
-
-- maybe also have the two maps next to each other for easy comparison
