@@ -21,7 +21,6 @@ In my personal life, generally my older family members do not use technology as 
 
 Since my first device, there has been a drastic change in the way that I use digital technology. Being born in 1999, the earliest years of my life contained very little use of digital technologies. My first memories include watching television, using VHS tapes and gaming on devices such as the PlayStation 2 and Nintendo DS where I played without internet access. Now, I use my iPhone with multiple apps being used for hours every day, as well as using my MacBook to browse the Web, complete my university work, and watch video content online.
 
-![image](https://user-images.githubusercontent.com/92858021/147977577-432d9044-786f-454e-af49-69342c14ce50.png)
 
 <br>
 
