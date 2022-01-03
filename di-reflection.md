@@ -1,7 +1,7 @@
 
 ## Reflection on digital identities
 
-This writing briefly reflects on my understanding of
+This writing briefly reflects on my understanding of:
 
 - digital identities in general
 - my digital identities in the past/present
