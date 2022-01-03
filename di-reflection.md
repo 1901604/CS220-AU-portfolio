@@ -19,7 +19,10 @@ In the V&R map, 'visitors' are unlikely to own an online profile that projects t
 
 In my personal life, generally my older family members do not use technology as much as me and my sister and cousins for example. I expect that this is because my generation has largely grown up being surrounded by technology so thus have a better understanding of how to use it and it is more engrained into our culture to use it more often. However, almost everyone in England will use digital technology in some form and all members of my family and friends have smartphones, computers and internet access that they use in their daily lives. From personal experience, my Grandad is 82 years old and some of his use of technology is to manage investments online and for emails rather than newer forms of social media common for my generation. In some sense, this diminished usage may be more efficient in that less time is spent on unnecessary scrolling on social media and instead the technology is used more for professional means. This relationship with technology may have been shifted as a result of the COVID 19 pandemic where, for instance, my mum had to use Zoom for work meetings which she had not done before. 
 
-Since my first device, there has been a drastic change in the way that I use digital technology. Being born in 1999, the earliest years of my life contained very little to no use of digital technologies. My first memories include gaming devices such as the PlayStation 2 and Nintendo DS where I gamed without internet access. 
+Since my first device, there has been a drastic change in the way that I use digital technology. Being born in 1999, the earliest years of my life contained very little use of digital technologies. My first memories include watching television, using VHS tapes and gaming on devices such as the PlayStation 2 and Nintendo DS where I played without internet access. Now, I use my iPhone with multiple apps being used for hours every day, as well as using my MacBook to browse the Web, complete my university work, and watch video content online.
+
+![image](https://user-images.githubusercontent.com/92858021/147977577-432d9044-786f-454e-af49-69342c14ce50.png)
+
 <br>
 
 ### My present digital identities
