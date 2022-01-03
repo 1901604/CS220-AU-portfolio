@@ -8,8 +8,6 @@ It includes the files:
 - final-check.md
 - index.md
 
-
-
 <br>
 
 ## Log
