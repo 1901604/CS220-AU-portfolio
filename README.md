@@ -1,5 +1,13 @@
 # CS220 AU portfolio
 ## Overview
+This GitHub repository is for the CS220 AU assignment, my digital portfolio. My student ID is 1901604.
+It includes the files:
+- README.md
+- assessement.md
+- di-reflection.md
+- final-check.md
+- index.md
+
 
 
 <br>
