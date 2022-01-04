@@ -29,19 +29,21 @@ I am a student at the University of Essex studying Communications and Digital Cu
 
 ## educations
 
-| date | degree | institute |
---- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industrie
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+| date | qualification | grade | institute |
+--- | --- | --- | ---
+| ongoing | BA in Communications and Digital Culture | TBD | University of Essex |
+| 2020 | BA in Communications and Digital Culture (Foundation Year) | 1st Class | University of Essex |
+| 2017 | A-Level Media Studies | B | Glenthorne High School |
+| 2016 | AS Film Studies | C  | Glenthorne High School |
+
 
 <br>
 
 ## work experience
-#### Customer Service Advisor B&Q
-#### Administrative Assisstant HMCTS
-#### Enrolment Officer Merton College
+#### Customer Service Advisor, B&Q
+#### Administrative Assisstant, HMCTS
+#### Enrolment Officer, Merton College
+#### COVID Tester, Carshalton Boys Sports College
 <br>
 
 
