@@ -31,7 +31,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
+|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industrie
 | ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
 | 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
 | 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
