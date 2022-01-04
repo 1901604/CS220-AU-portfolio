@@ -61,7 +61,6 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 
 [The 1975 - Pressure Music Video](https://www.youtube.com/watch?v=-_kmPpjo3DQ)
 
-<br>
 
 ![mvthumbnail](assets/img/mvthumbnail.png)
 
