@@ -66,11 +66,11 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 
 <br>
 
-![advertisementretrospect](assets/img/advertisementretrospect.png)
+![advertisementretrospect](assets/img/advertisementretrospect.jpeg)
 
 <br>
 
-![albumcoverretrospect](assets/img/albumcoverretrospect.png)
+![albumcoverretrospect](assets/img/albumcoverretrospect.jpeg)
 
 <br>
 
