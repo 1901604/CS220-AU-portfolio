@@ -74,7 +74,7 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 
 <br>
 
-I completed this project as a part of my A-Level Media Studies coursework in a group with two of my classmates. The end product included the music video, album cover and advertisement. The research, planning, production and evaluation of the project was all carefully planned, analysed and documented on my [Blogger page](http://connorpeters2016.blogspot.com/) where you can use the labels at the top right corner of the webpage to navigate each procedure. An example of some of the editing production log from Adobe Premiere Pro is shown below.
+I completed this project as a part of my A-Level Media Studies coursework in a group with two of my classmates. The end product included the music video, album cover and advertisement. The research, planning, production and evaluation of the project was all carefully discussed, analysed and documented on my [Blogger page](http://connorpeters2016.blogspot.com/) where you can use the labels at the top right corner of the webpage to navigate each procedure. An example of some of the editing production log from Adobe Premiere Pro is shown below.
 
 <br>
 
