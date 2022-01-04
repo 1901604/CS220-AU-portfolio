@@ -34,6 +34,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 | ongoing | BA in Communications and Digital Culture | University of Essex | TBD |
 | 2020 | Communications and Digital Culture Foundation Year | University of Essex | First-Class Honours |
 | 2017 | A-Level Media Studies | Glenthorne High School | B |
+| 2016 | AS Media Studies | Glenthorne High School  | B |
 | 2016 | AS Film Studies | Glenthorne High School  | C |
 | 2015 | GCSE Biology | Glenthorne High School  | A |
 | 2015 | GCSE Chemistry | Glenthorne High School  | A |
