@@ -11,7 +11,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 
 ## Social media links
 - [LinkedIn](https://www.linkedin.com/in/connor-p-80676b121/)
-- [YouTube]()
+- [YouTube](https://www.youtube.com/channel/UC09V1-uocMO4X11qk78KSJQ/featured)
 
 <br>
 
@@ -58,12 +58,11 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
  ![edit1](assets/img/edit1.png)
  
  <br>
- 
-## Music Video Project
+## Relevant Projects
+### Music Video Project: The 1975 - Pressure
 ![mvthumbnail](assets/img/mvthumbnail.png))](https://youtu.be/-_kmPpjo3DQ "The 1975 - Pressure Music Video")<br>
 
 <br>
-[![Alternate Text]({assets/img/mvthumbnail.png})]({https://youtu.be/-_kmPpjo3DQ} "The 1975 - Pressure Music Video")
 
 
 <br>
