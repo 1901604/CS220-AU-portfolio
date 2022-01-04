@@ -15,6 +15,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 - cp19834[at]essex[dot]co[dot]uk
 - c[dot]peters068[at]gmail[dot]com
 
+<br>
 
 ## Education
 
