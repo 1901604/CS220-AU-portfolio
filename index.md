@@ -7,19 +7,13 @@ Hello! My name is Connor Peters.
 
 I am a student at the University of Essex studying Communications and Digital Culture. After studying Media Studies at A-Level, I worked for 2 years as a customer advisor at B&Q and as an administrative assisstant for HMCTS in South West London before deciding to enrol into a foundation year at university which lead me to study this degree. In the past I have been interested in editing videos and images and closely followed video game culture and esports. Now I am interested in media sociology and sociology in general, whilst also striving to maintain an apt knowledge of the lastest forms of technology and seeking to understand where technology may take us in the future.
 
-<br>
-
 ## Social media links
 - [LinkedIn](https://www.linkedin.com/in/connor-p-80676b121/)
 - [YouTube](https://www.youtube.com/channel/UC09V1-uocMO4X11qk78KSJQ/featured)
 
-<br>
-
 ## Contact
 - cp19834[at]essex[dot]co[dot]uk
 - c[dot]peters068[at]gmail[dot]com
-
-<br>
 
 ## Education
 
@@ -43,9 +37,6 @@ I am a student at the University of Essex studying Communications and Digital Cu
 | 2015 | GCSE Religious Studies | Glenthorne High School  | B |
 | 2013 | GCSE Science (Core) | Glenthorne High School  | A |
 
-
-<br>
-
 ## Work experience
 #### Administrative Assisstant, HMCTS (06/11/2017 - 22/06/2018)
 My tasks included complex data entry, copying large volumes of Tribunal papers, and sending out session bundles to Tribunal panel members.  I worked in a part of a team that came into contact with the appeals, conversing with Tribunal panel members and venues over the phone, through email and in person. Throughout this process, I had very positive interactions with my various colleagues and managers I had over this period which enabled me to progress very quickly, given that that was my first job, and expand my skill set as I developed. This introduction into the workplace taught me a lot in terms of coping with working under pressure to meet figures and deadlines, as well as developing my ability to easily and efficiently communicate with others in a professional manner.
@@ -53,7 +44,6 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 #### Enrolment Officer, Merton College (09/2021)
 #### COVID Tester, Carshalton Boys Sports College (01/2022)
  
- <br>
  
 ## Relevant Projects
 
