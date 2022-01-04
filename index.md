@@ -44,8 +44,9 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 #### Enrolment Officer, Merton College (09/2021)
 #### COVID Tester, Carshalton Boys Sports College (01/2022)
  
+ <br>
  
-## Relevant Projects
+ ## Relevant Projects
 
 ### Music Video Project 
 
