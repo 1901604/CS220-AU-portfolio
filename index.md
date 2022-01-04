@@ -61,7 +61,9 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 
 ![mvthumbnail](assets/img/mvthumbnail.png)
 
-[The 1975 - Pressure](https://www.youtube.com/watch?v=-_kmPpjo3DQ)
+[The 1975 - Pressure Music Video](https://www.youtube.com/watch?v=-_kmPpjo3DQ)
+
+I completed this project as a part of my A-Level Media Studies coursework in a group with two of my classmates. The end product included the music video, album cover and advertisement. The research, planning, production and evaluation of the project was all carefully planned, analysed and documented on my [Blogger page](http://connorpeters2016.blogspot.com/) where you can use the labels at the top right corner of the webpage to navigate each procedure.
 
 <br>
 
