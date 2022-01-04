@@ -9,13 +9,13 @@ I am a student at the University of Essex studying Communications and Digital Cu
 
 <br>
 
-## social media links
+## Social media links
 - [LinkedIn](https://www.linkedin.com/in/connor-p-80676b121/)
 - [YouTube]()
 
 <br>
 
-## contact
+## Contact
 - cp19834[at]essex[dot]co[dot]uk
 - c[dot]peters068[at]gmail[dot]com
 
@@ -27,19 +27,19 @@ I am a student at the University of Essex studying Communications and Digital Cu
 <br>
 [![Alternate Text]({assets/img/mvthumbnail.png})]({https://youtu.be/-_kmPpjo3DQ} "The 1975 - Pressure Music Video")
 
-## educations
+## Education
 
-| date | qualification | grade | institute |
+| Date | Qualification | Institute | Grade |
 --- | --- | --- | ---
-| ongoing | BA in Communications and Digital Culture | TBD | University of Essex |
-| 2020 | BA in Communications and Digital Culture (Foundation Year) | 1st Class | University of Essex |
-| 2017 | A-Level Media Studies | B | Glenthorne High School |
-| 2016 | AS Film Studies | C  | Glenthorne High School |
+| ongoing | BA in Communications and Digital Culture | University of Essex | TBD |
+| 2020 | BA in Communications and Digital Culture (Foundation Year) | University of Essex | 1st Class |
+| 2017 | A-Level Media Studies | Glenthorne High School | B |
+| 2016 | AS Film Studies | Glenthorne High School  | C |
 
 
 <br>
 
-## work experience
+## Work experience
 #### Customer Service Advisor, B&Q
 #### Administrative Assisstant, HMCTS
 #### Enrolment Officer, Merton College
