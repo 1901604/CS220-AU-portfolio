@@ -52,17 +52,12 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 #### Stockroom Customer Advisor, B&Q (05/11/2018 - 21/06/2019)
 #### Enrolment Officer, Merton College (09/2021)
 #### COVID Tester, Carshalton Boys Sports College (01/2022)
-<br>
-
-
- ![edit1](assets/img/edit1.png)
  
  <br>
 ## Relevant Projects
-### Music Video Project: The 1975 - Pressure
-![mvthumbnail](assets/img/mvthumbnail.png))](https://youtu.be/-_kmPpjo3DQ "The 1975 - Pressure Music Video")<br>
-
-<br>
+### Music Video Project 
+![mvthumbnail](assets/img/mvthumbnail.png)
+[The 1975 - Pressure](https://www.youtube.com/watch?v=-_kmPpjo3DQ)<br>
 
 
 <br>
