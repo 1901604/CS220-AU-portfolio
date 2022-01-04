@@ -92,40 +92,7 @@ In this editing session we made an effort to add any interesting effects that we
 <br>
 In this editing session we also experimented with the 3 way colour effect, using it to bring out certain highlights of vivid colours and leaving the rest of the shot looking dull with low saturation. We used this on the shot shown below to exaggerate the red in the graffiti along with the shot of Chris walking through the tunnel. We animated this shot so that the colours would change as the shot progresses to add some dynamic editing to our music video and help create interest in the audience through attempting to make the video more visually interesting to watch.
 
-  
- 
-
 <br>
 
-<br>
-
-## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
-
-### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
-
-<br>
-
-Here is an example on how to embed an image from an external website:
-
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
-
-<br>
-
-And here is an example for embedding an audio player:
-.
-<br>
-
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
-
-<br>
-
-Here an example to embed a video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br> 
 
 My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
