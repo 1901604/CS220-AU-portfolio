@@ -54,10 +54,16 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 #### COVID Tester, Carshalton Boys Sports College (01/2022)
  
  <br>
+ 
 ## Relevant Projects
+
 ### Music Video Project 
+
 ![mvthumbnail](assets/img/mvthumbnail.png)
-[The 1975 - Pressure](https://www.youtube.com/watch?v=-_kmPpjo3DQ)<br>
+
+[The 1975 - Pressure](https://www.youtube.com/watch?v=-_kmPpjo3DQ)
+
+<br>
 
 
 <br>
