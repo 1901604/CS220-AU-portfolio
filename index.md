@@ -15,6 +15,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 - cp19834[at]essex[dot]co[dot]uk
 - c[dot]peters068[at]gmail[dot]com
 
+
 ## Education
 
 | Date | Qualification | Institute | Grade |
@@ -36,6 +37,8 @@ I am a student at the University of Essex studying Communications and Digital Cu
 | 2015 | GCSE Physics | Glenthorne High School  | B |
 | 2015 | GCSE Religious Studies | Glenthorne High School  | B |
 | 2013 | GCSE Science (Core) | Glenthorne High School  | A |
+
+<br>
 
 ## Work experience
 #### Administrative Assisstant, HMCTS (06/11/2017 - 22/06/2018)
