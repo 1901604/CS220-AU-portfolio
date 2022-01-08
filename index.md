@@ -92,4 +92,4 @@ In this editing session we also experimented with the 3 way colour effect, using
 <br>
 
 
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+My full CV can be found [here](https://github.com/1901604/CS220-AU-portfolio/blob/main/assets/img/CV2021CONNORPETERS.pdf).
