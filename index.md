@@ -26,18 +26,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 | 2017 | A-Level Media Studies | Glenthorne High School | B |
 | 2016 | AS Media Studies | Glenthorne High School  | B |
 | 2016 | AS Film Studies | Glenthorne High School  | C |
-| 2015 | GCSE Biology | Glenthorne High School  | A |
-| 2015 | GCSE Chemistry | Glenthorne High School  | A |
-| 2015 | GCSE English Language | Glenthorne High School  | A |
-| 2015 | GCSE English Literature | Glenthorne High School  | B |
-| 2015 | GCSE French | Glenthorne High School  | C |
-| 2015 | GCSE Geography | Glenthorne High School  | A |
-| 2015 | GCSE Maths | Glenthorne High School  | A |
-| 2015 | GCSE Media Studies | Glenthorne High School  | A |
-| 2015 | GCSE Physical Education | Glenthorne High School  | C |
-| 2015 | GCSE Physics | Glenthorne High School  | B |
-| 2015 | GCSE Religious Studies | Glenthorne High School  | B |
-| 2013 | GCSE Science (Core) | Glenthorne High School  | A |
+
 
 <br>
 
