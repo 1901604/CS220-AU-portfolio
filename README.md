@@ -35,7 +35,7 @@ It includes the files:
 - <br>
 
 ## TODO
-- Complete Digital Identity page (Read template and add notes, create 2nd V&R map)
+- Complete Digital Identity page 
 - Progress with Website
 - 
 ## References
