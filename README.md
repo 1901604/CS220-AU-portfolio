@@ -31,12 +31,13 @@ It includes the files:
 - Added references at the bottom of this page 02/01/22
 - Changed structure of digital identities page and checked spelling through Word 03/01/22
 - Responded to Krisztian's suggestions 08/01/22
+- Completed self-assessment
 - 
 - <br>
 
 ## TODO
-- Complete Digital Identity page 
-- Progress with Website
+- Peer assessment 
+- final checks
 - 
 ## References
 - Cawthorne, B., 2017. [Exploring critical thinking online. UK safer internet centre](https://saferinternet.org.uk/blog/exploring-critical-thinking-online)
