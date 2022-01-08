@@ -35,7 +35,7 @@ I am a student at the University of Essex studying Communications and Digital Cu
 My tasks included complex data entry, copying large volumes of Tribunal papers, and sending out session bundles to Tribunal panel members.  I worked in a part of a team that came into contact with the appeals, conversing with Tribunal panel members and venues over the phone, through email and in person. Throughout this process, I had very positive interactions with my various colleagues and managers I had over this period which enabled me to progress very quickly, given that that was my first job, and expand my skill set as I developed. This introduction into the workplace taught me a lot in terms of coping with working under pressure to meet figures and deadlines, as well as developing my ability to easily and efficiently communicate with others in a professional manner.
 #### Stockroom Customer Advisor, B&Q (05/11/2018 - 21/06/2019)
 #### Enrolment Officer, Merton College (09/2021)
-#### COVID Tester, Carshalton Boys Sports College (01/2022)
+#### COVID-19 Response, Carshalton Boys Sports College (01/2022)
  
  <br>
  
