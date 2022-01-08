@@ -26,11 +26,13 @@ It includes the files:
 - Watched missed classes on Listen Again 28/12/21
 - Added to Digital Identities page on 28/12/21
 - Completed analysis of current digital identities and went on to start my future V&R map 30/12/21
-- Completed future V&R map and 02/01/21
-- Answered some 'Questions you should/could export' questions on digital identities 02/01/21
-- Added references at the bottom of this page 02/01/21
-- Changed structure of digital identities page and checked spelling through Word 03/01/21
-- - - <br>
+- Completed future V&R map and 02/01/22
+- Answered some 'Questions you should/could export' questions on digital identities 02/01/22
+- Added references at the bottom of this page 02/01/22
+- Changed structure of digital identities page and checked spelling through Word 03/01/22
+- Responded to Krisztian's suggestions 08/01/22
+- 
+- <br>
 
 ## TODO
 - Complete Digital Identity page (Read template and add notes, create 2nd V&R map)
