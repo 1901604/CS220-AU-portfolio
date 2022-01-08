@@ -31,7 +31,7 @@ It includes the files:
 - Added references at the bottom of this page 02/01/22
 - Changed structure of digital identities page and checked spelling through Word 03/01/22
 - Responded to Krisztian's suggestions 08/01/22
-- Completed self-assessment
+- Completed self-assessment 08/01/22
 - 
 - <br>
 
