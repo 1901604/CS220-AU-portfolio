@@ -73,6 +73,7 @@ By addressing these objectives my V&R map will look as follows:
 
 In this writing I reflected on my understanding of digital identities in general and highlighted how we have developed on Prensky's model of digital natives and digital immigrants to give White et al's Visitors and Reisidents model which gives a more accurate spectrum for people to be placed on. I also outlined how my present digital identities mostly occupy the 'personal' category, and how in the future I aim to have much more weighting in the 'professional' and 'resident' sectors in order to have a more efficient and useful digital identity. 
 
+
 ### References
 Cawthorne, B., 2017. [Exploring critical thinking online. UK safer internet centre](https://saferinternet.org.uk/blog/exploring-critical-thinking-online)
 
