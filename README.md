@@ -34,6 +34,7 @@ It includes the files:
 - Completed self-assessment 08/01/22
 - Responded to Krisztian's email suggestions 10/01/22
 - Added references to bottom of DI page 10/01/22
+- Added artwork credit and uploaded production log images to assets folder 10/01/22
 - 
 -- <br>
 
