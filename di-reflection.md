@@ -55,7 +55,7 @@ I believe that some of the positive aspects of my digital identity thus far incl
 
 <br>
 
-After making a website with GitHub for my CS220 Autumn term assignment, this updated my digital identity to provide content within the professional and resident sector of the V&R map. I chose to use GitHub Pages to develop my website over other web content management systems such as WordPress as I wanted to experiment and familiarise myself with how to use GitHub and markdown language and to improve my knowledge and skills for any future work I may wish to complete. 
+After making a website with GitHub for my CS220 Autumn term assignment, this updated my digital identity to provide content within the professional and resident sector of the V&R map. I chose to use GitHub Pages to develop my website over other web content management systems such as WordPress as I wanted to experiment and familiarise myself with how to use GitHub and markdown language and to improve my knowledge and skills for any future work I may wish to complete. I also chose to use the Cayman theme for my GitHub Pages website. I wanted to use a simple and easy-to-read theme, font, and colour pallet to not distract from the content and to retain a professional display. The green and blue colour pallet also links to the colours used in the advertisement and album cover and thus retains continuity with the content. If I had more experience in this area, I could experiement with making my own theme that is more complex and more closely related to my vision.
 
 <br>
  
