@@ -44,7 +44,7 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 ### Music Video Project 
 
 <br>
-
+Music Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-_kmPpjo3DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,12 +53,12 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 <br>
 
 <br>
-
+Advertisement
 ![advertisementretrospect](assets/img/advertisementretrospect.jpeg)
 
 *Image credit: Connor Peters*
 <br>
-
+Album Cover
 ![albumcoverretrospect](assets/img/albumcoverretrospect.jpeg)
 
 *Image credit: Connor Peters, Michael Metz, Christopher Jupp*
