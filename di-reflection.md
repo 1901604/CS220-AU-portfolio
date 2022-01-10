@@ -75,9 +75,13 @@ In this writing I reflected on my understanding of digital identities in general
 
 ### References
 Cawthorne, B., 2017. [Exploring critical thinking online. UK safer internet centre](https://saferinternet.org.uk/blog/exploring-critical-thinking-online)
-Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
+
+Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf)
+
 Prensky, M., 2001. Digital natives, digital immigrants part 2: Do they really think differently?. On the horizon.
+
 White, D.S., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
+
 White, D.S. and Le Cornu, A., 2011. Visitors and Residents: A new typology for online engagement. First monday.
 
 
