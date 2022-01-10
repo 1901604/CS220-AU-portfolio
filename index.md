@@ -98,6 +98,8 @@ In this editing session we also experimented with the 3 way colour effect, using
 
 <br>
 
+<br>
+
 
 My full CV can be found [here](https://github.com/1901604/CS220-AU-portfolio/blob/main/assets/img/CV2021CONNORPETERS.pdf).
 
