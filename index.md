@@ -39,7 +39,7 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
  
  <br>
  
- ## Relevant Projects
+## Relevant Projects
 
 ### Music Video Project 
 
