@@ -51,10 +51,12 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 <br>
 
 ![advertisementretrospect](assets/img/advertisementretrospect.jpeg)
+
 *Image credit: Connor Peters*
 <br>
 
 ![albumcoverretrospect](assets/img/albumcoverretrospect.jpeg)
+
 *Image credit: Connor Peters, Michael Metz, Christopher Jupp*
 <br>
 
