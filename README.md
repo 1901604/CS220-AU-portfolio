@@ -35,7 +35,7 @@ It includes the files:
 - Responded to Krisztian's email suggestions 10/01/22
 - Added references to bottom of DI page 10/01/22
 - Added artwork credit and uploaded production log images to assets folder 10/01/22
-- 
+- Commented on web-design practices on DI page and added link to DI page on website 10/01/21
 -- <br>
 
 ## TODO
