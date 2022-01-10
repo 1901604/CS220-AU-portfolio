@@ -71,7 +71,7 @@ The above V&R map and its analysis highlighted that a large majority of my digit
 
 By addressing these objectives my V&R map will look as follows: 
 
-![futureV&R map](assets/img/futurev&rmap.png)
+![futurev&rnew](assets/img/futurev&rnew.png)
 
 <br>
 
