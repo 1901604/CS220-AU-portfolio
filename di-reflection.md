@@ -53,10 +53,13 @@ I believe that some of the positive aspects of my digital identity thus far incl
 
 <br>
 
+<br>
+
 After making a website with GitHub for my CS220 Autumn term assignment, this updated my digital identity to provide content within the professional and resident sector of the V&R map. I chose to use GitHub Pages to develop my website over other web content management systems such as WordPress as I wanted to experiment and familiarise myself with how to use GitHub and markdown language and to improve my knowledge and skills for any future work I may wish to complete. 
- <br>
+
+<br>
  
- <br>
+<br>
 
 <br>
 
