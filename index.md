@@ -43,10 +43,10 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 
 ### Music Video Project 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-_kmPpjo3DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![mvthumbnail](assets/img/mvthumbnail.png)
 
 <br>
 
@@ -84,84 +84,6 @@ In this editing session we also experimented with the 3 way colour effect, using
 
 
 My full CV can be found [here](https://github.com/1901604/CS220-AU-portfolio/blob/main/assets/img/CV2021CONNORPETERS.pdf).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_kmPpjo3DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
