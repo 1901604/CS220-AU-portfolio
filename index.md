@@ -52,10 +52,6 @@ My tasks included complex data entry, copying large volumes of Tribunal papers, 
 
 <br>
 
-<br>
-
-<br>
-
 **Advertisement**
 
 ![advertisementretrospect](assets/img/advertisementretrospect.jpeg)
