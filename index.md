@@ -92,6 +92,12 @@ In this editing session we also experimented with the 3 way colour effect, using
 
 <br>
 
+### Reflection on Digital Identities Essay
+
+[This GitHub page](https://github.com/1901604/CS220-AU-portfolio/blob/main/di-reflection.md) explores my understanding of digital identities in general, my digital identities in the past, and my digital identities in the future as a part of my CS220 Autumn Term assignment.
+
+<br>
+
 
 My full CV can be found [here](https://github.com/1901604/CS220-AU-portfolio/blob/main/assets/img/CV2021CONNORPETERS.pdf).
 
