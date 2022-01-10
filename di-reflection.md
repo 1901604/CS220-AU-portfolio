@@ -50,7 +50,9 @@ To help develop my digital identities I have:
 
 <br>
 I believe that some of the positive aspects of my digital identity thus far include that I have professional accounts such as LinkedIn which present my education and employment history and allow for possible connections to be made for future employment. I have also been cautious with what I post on social media in the past and have recently deleted some content I now deem inappropriate. Some of my social media such as Instagram, Facebook and Snapchat are on private, and I have effectively used sites such as eBay to buy and sell products and have good reviews. Additionally, some of my Media Studies content from A-Levels can be accessed on a public Blogger account. Furthermore, I have used an alias in the past for gaming accounts which separates them from my professional identity, and I have posted YouTube videos displaying my academic work to an account in my name and recreational work has been posted to an account with an alias. 
- <br>
+
+
+After making a website with GitHub for my CS220 Autumn term assignment, this updated my digital identity to provide content within the professional and resident sector of the V&R map. I chose to use GitHub Pages to develop my website over other web content management systems such as WordPress as I wanted to experiment and familiarise myself with how to use GitHub and markdown language and to improve my knowledge and skills for any future work I may wish to complete. 
  <br>
  
  <br>
