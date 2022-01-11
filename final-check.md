@@ -1,5 +1,4 @@
 Student number: 1901604
-
 Module code: CS220 AU  
 Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
