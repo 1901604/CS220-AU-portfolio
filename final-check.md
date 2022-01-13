@@ -26,16 +26,9 @@ I used the `index.md` file
 In the `assessement.md` file I
 - [x] familiarised myself with the marking rubric
 - [x] filled in the self-assessment table
-- [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
-- [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
+- [x] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
+- [x] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
 
-The student number of the student I provided feedback with is: <!-- #todo : add your classmate's student number -->  
+The student number of the student I provided feedback with is: 2008771
 
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
-- download this .md file to your computer
-- rename both files to submit on FASER so that they show your student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.md` 
-- submit these two files on FASER
-- relax
--->
 
