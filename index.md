@@ -87,6 +87,17 @@ In this editing session we made an effort to add any interesting effects that we
 In this editing session we also experimented with the 3 way colour effect, using it to bring out certain highlights of vivid colours and leaving the rest of the shot looking dull with low saturation. We used this on the shot shown below to exaggerate the red in the graffiti along with the shot of Chris walking through the tunnel. We animated this shot so that the colours would change as the shot progresses to add some dynamic editing to our music video and help create interest in the audience through attempting to make the video more visually interesting to watch.
 
 <br>
+### KPN Christmas Advertisement Project
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lgy9TOOzMh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I was a part of the planning process as well as starring in a Christmas advertisement for the large Dutch telecommunications company KPN. I also partook in recorded interviews after this filming session and there is an exteded version of the edit online. The advert revolves around my group of online gaming friends who are from all over Europe who meet for the first time in real life and are brought together for Christmas to demontrate the power and magic of the internet and digital technology. This process took several months and attained a high production value and improved my understanding of what is involved in the process of producing content for large corporations.
+
+The English translation of the description reads as:
+"Our network connects you with your friends, Christmas is the perfect opportunity to celebrate well. In the documentary, we follow a group of close friends who met in an online computer game. A very close friendship has developed online, without ever meeting physically. Christmas is the time to celebrate all friendships, so we brought the boys together. Because however you are connected, celebrate it this Christmas".
+
+
+
+<br>
 
 ### Reflection on Digital Identities Essay
 
