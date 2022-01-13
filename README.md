@@ -36,6 +36,7 @@ It includes the files:
 - Added references to bottom of DI page 10/01/22
 - Added artwork credit and uploaded production log images to assets folder 10/01/22
 - Commented on web-design practices on DI page and added link to DI page on website 10/01/21
+- Peer reviewed Owen's work, added KPN advert to website and changed image size of poster 13/01/22
 -- <br>
 
 ## TODO
