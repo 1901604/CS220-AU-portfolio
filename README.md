@@ -37,15 +37,9 @@ It includes the files:
 - Added artwork credit and uploaded production log images to assets folder 10/01/22
 - Commented on web-design practices on DI page and added link to DI page on website 10/01/21
 - Peer reviewed Owen's work, added KPN advert to website and changed image size of poster 13/01/22
--- <br>
+
+
+-   <br>
 
 ## TODO
-- Peer assessment 
-- final checks
-- 
-## References
-- Cawthorne, B., 2017. [Exploring critical thinking online. UK safer internet centre](https://saferinternet.org.uk/blog/exploring-critical-thinking-online)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
-- Prensky, M., 2001. Digital natives, digital immigrants part 2: Do they really think differently?. On the horizon.
-- White, D.S., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- White, D.S. and Le Cornu, A., 2011. Visitors and Residents: A new typology for online engagement. First monday.
+- Submit to Faser
